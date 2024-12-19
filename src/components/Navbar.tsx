@@ -4,6 +4,7 @@ export default function Navbar() {
       <a href="/">Home</a>
       <a href="/drag">Drag</a>
       <a href="/gesture">Gesture</a>
+      <a href="/keyframes">Keyframes</a>
     </nav>
   );
 }
