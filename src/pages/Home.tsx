@@ -2,9 +2,9 @@ import { useState } from "react";
 
 import { AnimatePresence, motion, useScroll } from "motion/react";
 
-import Navbar from "./components/Navbar";
+import Navbar from "../components/Navbar";
 
-export default function App() {
+export default function Home() {
   const [isExpanded, setIsExpanded] = useState(false);
   const [show, setShow] = useState(true);
 
