@@ -6,6 +6,7 @@ export default function Navbar() {
       <a href="/gesture">Gesture</a>
       <a href="/keyframes">Keyframes</a>
       <a href="/layout">Layout</a>
+      <a href="/rotate">Rotate</a>
     </nav>
   );
 }
