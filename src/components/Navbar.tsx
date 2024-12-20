@@ -5,6 +5,7 @@ export default function Navbar() {
       <a href="/drag">Drag</a>
       <a href="/gesture">Gesture</a>
       <a href="/keyframes">Keyframes</a>
+      <a href="/layout">Layout</a>
     </nav>
   );
 }
